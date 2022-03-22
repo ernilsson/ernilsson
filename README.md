@@ -4,7 +4,7 @@
 - Microservices 
 - Tools and libraries
 ## 💞️ Collaboration
-If I find a project that I believe I can contribute to in a meaningful way, I will. However, i'm also looking to create an open-source and free-to-use password manager. Have a look at my repositories to see how far i've come and don't hesitate to contribute if you wish!
+If I find a project that I believe I can contribute to in a meaningful way, I will. If you find a project of mine that you feel that you can contribute to then don't hesitate to create an issue or pull request from a fork and I will take a look at it as soon as I can. 
 ## 📫 How to reach me
-The easiest way is to send me an email, if you decide to contact me then I will get back to you as soon as I can. 
+The easiest way is to send me an email. I check my inbox regurarly so you should expect a reply within a few days. 
 e.rasmus.nilsson@gmail.com
